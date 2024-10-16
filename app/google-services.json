@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "314444672642",
+    "firebase_url": "https://ronaldo-betting-tips-d6943-default-rtdb.firebaseio.com",
+    "project_id": "ronaldo-betting-tips-d6943",
+    "storage_bucket": "ronaldo-betting-tips-d6943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314444672642:android:4483213ef1117c99bf4e9b",
+        "android_client_info": {
+          "package_name": "com.joeahkim.admin_kashtips"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv53XFw1gYWpG5FsCfIAlPNSYkn5sd0kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314444672642:android:c65f2778a5543ba2bf4e9b",
+        "android_client_info": {
+          "package_name": "com.joeahkim.chapaake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv53XFw1gYWpG5FsCfIAlPNSYkn5sd0kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
